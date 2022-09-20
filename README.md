@@ -4,7 +4,7 @@
 As a site visitor, I want to be able to view a number of images on a page as a gallery. 
 I expect these images to be retrieved via the API provided and displayed in a dynamic layout that will work on mobile as well as large screens. 
 I also expect the page to be accessible to visually impaired users and compatible with screen readers. 
-The website should use composer to manage any dependencies needed as well as using PHP for the server side code. A starter composer file has been provided to you.   
+The website should use composer to manage any PHP dependencies needed as well as using PHP for the server side code. If composer is needed, a starter composer file has been provided to you.
 
 ## Acceptance Criteria
 **Feature: Page with header and navigation
@@ -45,4 +45,7 @@ Follow these instructions to clone the starter repo to a local copy.
 1. Clone the following repo to your computer locally: https://github.com/kyledaviswx/webdev_project
 2. Once completed with code and tested functionality, create a tarball of the project
    1. ```tar -cvf tarName.tar /path/to/directory```
-3. Send the tarball to the hiring manager of the position you are applying for. Include any notes needed in the email to the hiring manager. 
+3. Send the tarball to the hiring manager of the position you are applying for. Include any notes needed in the email to the hiring manager.
+
+### Testing your site
+We would suggest testing locally using something like XAMPP to verify the php is working as intended. 
